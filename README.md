@@ -125,6 +125,7 @@ resources:
     noon: sensor.solar_noon
     moon_phase: sensor.moon
 ```
+![afbeelding](https://user-images.githubusercontent.com/62996429/116245531-59819000-a769-11eb-91f0-98bac82aa0c6.png)
 
 <img src="https://raw.githubusercontent.com/mishaaq/sun-card/master/images/showcase.png" width="450px"/>
 
