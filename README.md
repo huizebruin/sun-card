@@ -115,7 +115,7 @@ resources:
 ### Examples
 
 ```yaml
-- type: 'custom:sun-card'
+  type: 'custom:sun-card'
   name: Sun
   meridiem: false
   entities:
